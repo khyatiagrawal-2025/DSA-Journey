@@ -113,7 +113,7 @@ DSA-Learning/
 │   ├── 04-Classic-Problems.md
 │   └── Problems/
 │
-├── �� 09-Greedy-Algorithms/
+├── 📁 09-Greedy-Algorithms/
 │   ├── 01-Greedy-Approach.md
 │   ├── 02-Activity-Selection.md
 │   └── Problems/
@@ -154,7 +154,7 @@ DSA-Learning/
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                    🎓 BEGINNER LEVEL                         │
-├────────────���────────────────────────────────────────────────┤
+├────────────────────────────────────────────────────────────┤
 │  ✨ Arrays & Strings                                        │
 │  ✨ Linked Lists (Basics)                                  │
 │  ✨ Stacks & Queues                                        │
@@ -677,15 +677,17 @@ Contributions are **welcome**! 🎉
 ### Let's Connect! 🤝
 
 [![GitHub](https://img.shields.io/badge/GitHub-khyatiagrawal--2025-blue?style=for-the-badge&logo=github)](https://github.com/khyatiagrawal-2025)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khyati%20Agrawal-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/khyati-agrawal)
-[![Twitter](https://img.shields.io/badge/Twitter-%40khyatiagrawal-blue?style=for-the-badge&logo=twitter)](https://twitter.com/khyatiagrawal)
 
 ### 📧 Email
+
+For questions, feedback, or collaboration:
+
 ```
-khyatiagrawal2025@gmail.com
+khyatiagrawal9494@gmail.com
 ```
 
 ### 💬 Let's Chat!
+
 Have questions? Found bugs? Want to collaborate?
 **Create an Issue** or **Start a Discussion**!
 
