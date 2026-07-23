@@ -351,10 +351,6 @@ Future implementations:
 https://github.com/khyatiagrawal-2025
 
 
-### Email
-
-khyatiagrawal9494@gmail.com
-
 </div>
 
 ---
