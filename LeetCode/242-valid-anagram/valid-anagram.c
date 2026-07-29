@@ -1,26 +1,21 @@
-#include <string.h>
 #include <stdbool.h>
+#include <string.h>
 
 bool isAnagram(char* s, char* t) {
 
-    int n = strlen(s);
-    int m = strlen(t);
-
-    if(n != m){
+    if(strlen(s) != strlen(t))
         return false;
+
+    int freq[26] = {0};
+
+    for(int i = 0; s[i] != '\0'; i++) {
+        freq[s[i] - 'a']++;
+        freq[t[i] - 'a']--;
     }
 
-    int count[26] = {0};
-
-    for(int i = 0; i < n; i++){
-        count[s[i] - 'a']++;
-        count[t[i] - 'a']--;
-    }
-
-    for(int i = 0; i < 26; i++){
-        if(count[i] != 0){
+    for(int i = 0; i < 26; i++) {
+        if(freq[i] != 0)
             return false;
-        }
     }
 
     return true;
