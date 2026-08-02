@@ -23,3 +23,27 @@ int findContentChildren(int* g, int gSize, int* s, int sSize) {
 
     return i;
 }
+
+/*
+#include <stdbool.h>
+
+int findContentChildren(int* g, int gSize, int* s, int sSize) {
+
+    bool used[1000] = {false};
+    int count = 0;
+
+    for(int i = 0; i < gSize; i++) {
+
+        for(int j = 0; j < sSize; j++) {
+
+            if(!used[j] && s[j] >= g[i]) {
+                used[j] = true;
+                count++;
+                break;
+            }
+        }
+    }
+
+    return count;
+}
+*/
