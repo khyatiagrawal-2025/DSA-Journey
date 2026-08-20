@@ -3,6 +3,7 @@ class LinkedListDemo{
         Node n1 = new Node();
         n1.data = 12;
         n1.next = null;
+        
         System.out.println(n1.data+"->"+"NULL");
     }
 }
