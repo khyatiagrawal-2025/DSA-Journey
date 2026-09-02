@@ -73,7 +73,6 @@ int main(){
     
     return 0;
 }
-
 struct Node *insertAtLast(struct Node *head, int val){
     struct Node *newNode = malloc(sizeof(struct Node));
 
