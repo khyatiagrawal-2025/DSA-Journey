@@ -101,3 +101,6 @@ struct Node *insertAtLast(struct Node *head, int val){
 
     return head;
 }
+
+
+//Insert at a particular position ! using singly link list, doubly linkedlist, circular linkedlist !
