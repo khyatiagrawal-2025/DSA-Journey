@@ -3,3 +3,9 @@ Time Complexity -->
 TC --> Best Case --> O(1)
 TC --> Average Case --> O(N)
 TC --> Worst Case --> O(N)
+
+O(N) > O(logN)
+
+binary search mein divide and conqure theorem use hota hai !!
+
+O(log2N)
