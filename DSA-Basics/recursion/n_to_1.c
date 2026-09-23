@@ -1,21 +1,5 @@
 #include<stdio.h>
 
-void print(int num, int n){
-    if(num == n){
-        return;
-    }
-    printf("%d ", num);
-    print(num+1,n);
-}
-
-int main(){
-    int num,n;
-    scanf("%d %d",&num,&n);
-    print(num,n);
-    return 0;
-}
-
-/*
 void nNumber(int n){
     if(n==0){
         return;
@@ -30,7 +14,6 @@ int main(){
     nNumber(n);
     return 0;
 }
-*/
 
 /*
 void nNumber(int n){
