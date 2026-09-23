@@ -15,13 +15,13 @@ int main(){
 /*
 void n_Number(int n){
     for(int i=n; i>0; i--){
-        printf("%d\n",i);
+        printf("%d",i);
     }
 }
 int main(){
     int n;
     scanf("%d",&n);
-    n_Number(n);
+    n_Number(n); // Output --> 5 54321
     return 0;
 }
 */
