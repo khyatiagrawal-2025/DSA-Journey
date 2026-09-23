@@ -15,6 +15,6 @@ void fun(int n) {
 }
 
 int main() {
-    fun(1000);
+    fun(3);
     return 0;
 }
