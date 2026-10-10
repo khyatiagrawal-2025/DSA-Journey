@@ -13,7 +13,7 @@ class Solution {
 
             int mid = left + (right - left) / 2;
 
-            if(mid <= x / mid) {
+            if(mid <= x/mid) {
                 ans = mid;
                 left = mid + 1;
             }
