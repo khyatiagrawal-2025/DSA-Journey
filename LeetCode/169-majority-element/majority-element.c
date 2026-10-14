@@ -19,3 +19,5 @@ int majorityElement(int* nums, int numsSize) {
 
     return candidate;
 }
+
+
