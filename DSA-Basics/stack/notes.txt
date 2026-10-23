@@ -1,0 +1,29 @@
+Stack --> Linear Data Structure Logical View
+
+|        |      malloc(sizeof(int))
+|        |
+|        |
+|________|
+Last In First Out (LIFO)
+
+Operation -->
+1. Push -> insertion (Add)
+2. Pop -> deletion (remove)
+3. isSize -> element present/capacity
+4. peek -> top element of stack
+5. isEmpty -> isEmpty or not
+
+
+pop() stack underflow
+
+
+example --> tower of phenoyl
+
+merge sort & quick sort --> Recursion
+
+Operand         Operator
+  a                 +
+  4                 -
+  9                 *
+  d                 \
+  
