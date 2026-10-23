@@ -6,7 +6,7 @@ Stack --> Linear Data Structure Logical View
 |________|
 Last In First Out (LIFO)
 
-Operation -->
+Operation --------------------------------------------------------------------------------------------------------------
 1. Push -> insertion (Add)
 2. Pop -> deletion (remove)
 3. isSize -> element present/capacity
@@ -25,5 +25,26 @@ Operand         Operator
   a                 +
   4                 -
   9                 *
-  d                 \
-  
+  Z                 \
+
+# Applications -----------------------------------------------------------------------------------
+1. Prefix --> starting
+2. Postfix --> ab+
+3. Infix -->  in between
+4. Evaluate to Postfix
+5. Infix to Postfix
+6. Infix to Prefix
+7. Tower of hanoi
+8. Prefix Sum
+9. Postfix Sum
+
+
+↑  -->> Right to left solve
+
+/ -----
+%     |
+*     |=====>> Left to right
++     |
+- ____|
+
+(), {}, [] --> Right to left
