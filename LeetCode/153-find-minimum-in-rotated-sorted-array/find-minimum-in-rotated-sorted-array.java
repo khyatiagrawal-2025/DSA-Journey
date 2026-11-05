@@ -19,8 +19,3 @@ class Solution {
         return nums[left];
     }
 }
-
-
-
-
-
