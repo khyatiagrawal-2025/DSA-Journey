@@ -22,5 +22,3 @@ int lengthOfLastWord(char* s) {
 
     return count;
 }
-
-
